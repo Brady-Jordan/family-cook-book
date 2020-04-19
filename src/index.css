@@ -68,5 +68,18 @@ table {
   --blue: #6cadbc;
   --light-blue: #89BDC9;
   --lighter-blue: #A7CED7;
+}
 
+.btn-primary {
+  border:solid 3px var(--dark-blue);
+  color: var(--bWhite);
+  background-color: var(--dark-blue);
+  font-weight: bold;
+  font-size: 1.3em;
+  transition: .3s;
+}
+.btn-primary:hover {
+  background-color: var(--bWhite);
+  color: var(--dark-blue);
+  border:solid 3px var(--dark-blue);
 }
