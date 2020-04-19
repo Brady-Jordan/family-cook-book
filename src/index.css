@@ -60,14 +60,18 @@ table {
   --orange: #ff804b;
   --dark-yellow: #ffbe4a;
   --light-yellow: #f9f871;
+  
   --bWhite: #f2fdff;
   --bWhiteT: rgba(240, 253, 255, 0.45);
   --bBlack: #13292d;
+  --bBlackT: rgba(20, 43, 47, 0.45);
   --gray: #929c9e;
   --dark-blue: #416871;
   --blue: #6cadbc;
   --light-blue: #89BDC9;
   --lighter-blue: #A7CED7;
+
+  --shadow: 7px 7px 15px 1px var(--bBlackT);
 }
 
 .btn-primary {
