@@ -1,0 +1,9 @@
+.container-fluid {
+  background-color: var(--blue);
+}
+
+.catImg {
+  -webkit-box-shadow: var(--shadow);
+  -moz-box-shadow: var(--shadow);
+  box-shadow: var(--shadow);
+}
