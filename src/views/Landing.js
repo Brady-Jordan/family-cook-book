@@ -8,7 +8,7 @@ const Landing = () => {
             <Header
             
             />
-            <h1>Landing</h1>
+            <h1>Landing Page View</h1>
         </div>
     )
 }
