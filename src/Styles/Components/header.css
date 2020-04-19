@@ -7,7 +7,7 @@
   font-weight: 500;
 }
 .navLink:hover {
-  color: var(--gray);
+  color: var(--bWhiteT);
 }
 
 .navSearch {
