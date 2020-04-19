@@ -1,16 +1,16 @@
 import React from 'react';
 import Header from '../components/header';
 
-const Login = () => {
+const About = () => {
 
     return(
         <div>
             <Header
             
             />
-            <h1>Login</h1>
+            <h1>About</h1>
         </div>
     )
 }
 
-export default Login;
+export default About;
