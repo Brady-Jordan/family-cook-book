@@ -4,6 +4,7 @@
 
 .navLink {
   color: var(--bWhite);
+  font-weight: 500;
 }
 .navLink:hover {
   color: var(--gray);
@@ -17,5 +18,12 @@
 
 
 .btn-outline-secondary {
+  background-color: var(--bWhite);
+  color: var(--dark-blue);
+  border-color: var(--bWhite);
+}
+.btn-outline-secondary:hover {
+  background-color: var(--bWhiteT);
   color: var(--bWhite);
+  border-color: var(--bWhite);
 }

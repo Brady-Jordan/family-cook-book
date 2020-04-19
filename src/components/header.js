@@ -4,7 +4,7 @@ import '../Styles/Components/header.css'
 const Header = () => {
 
     return(
-        <div className='header p-3'>
+        <div className='header p-2'>
             <div className="row d-flex justify-content-end">
                 <div className="col-6 d-flex justify-content-between align-items-center">
                     <a href=""><p className="navLink">Home</p></a>
