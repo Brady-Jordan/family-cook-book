@@ -5,9 +5,9 @@ const Landing = () => {
 
     return(
         <div>
-            <Header>
-                
-            </Header>
+            <Header
+            
+            />
             <h1>Landing</h1>
         </div>
     )
