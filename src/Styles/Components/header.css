@@ -1,0 +1,21 @@
+.header {
+  background-color: var(--dark-blue);
+}
+
+.navLink {
+  color: var(--bWhite);
+}
+.navLink:hover {
+  color: var(--gray);
+}
+
+.navSearch {
+  background-color: var(--bWhiteT);
+  border: var(--bWhite);
+  color: var(--dark-blue);
+}
+
+
+.btn-outline-secondary {
+  color: var(--bWhite);
+}
