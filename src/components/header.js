@@ -12,10 +12,6 @@ const Header = () => {
                     <Link className='navLink' to='/about'>About</Link>
                     <Link className='navLink' to='/recipes'>Recipes</Link>
                     <Link className='navLink' to='/login'>Sign In</Link>
-                    {/* <a href=""><p className="navLink">Home</p></a>
-                    <a href=""><p className="navLink">Recipes</p></a>
-                    <a href=""><p className="navLink">About</p></a>
-                    <a href=""><p className="navLink">Sign In</p></a> */}
                     <div className="input-group w-50">
                         <input type="text" class="form-control navSearch"/>
                         <div class="input-group-append">
