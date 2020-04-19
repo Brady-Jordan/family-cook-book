@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link, withRouter} from 'react-router-dom'; 
-import '../styles/Components/header.css'
+import '../styles/components/header.css'
 
 const Header = () => {
 
