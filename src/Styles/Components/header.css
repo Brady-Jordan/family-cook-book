@@ -5,9 +5,11 @@
 .navLink {
   color: var(--bWhite);
   font-weight: 500;
+  transition: .3s;
 }
 .navLink:hover {
   color: var(--bWhiteT);
+  text-decoration: none;
 }
 
 .navSearch {
